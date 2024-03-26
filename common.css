@@ -105,10 +105,6 @@ rt {
   font-size: 20px; text-align: center; visibility: visible; overflow-wrap: break-word !important;
 }
 
-.erJiBiaoTi_ZuoKongEr_p{
-  line-height: 2em; margin-left: 2em; margin-bottom: 0px; padding: 0px; outline: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(100, 65, 37); font-family: system-ui, -apple-system, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei UI, Microsoft YaHei, Arial, sans-serif; 
-  font-size: 16px; overflow-wrap: break-word !important;
-}
 .erJiBiaoTi_span{
   margin: 0px; padding: 0px; outline: 0px; max-width: 100%; color: rgb(114, 41, 41); 
   font-size: 20px; visibility: visible; overflow-wrap: break-word !important;
@@ -152,6 +148,11 @@ rt {
 /* 正文 */
 .zhengWen{
   line-height: 2em; margin-bottom: 0px; padding: 0px; outline: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(100, 65, 37); font-family: system-ui, -apple-system, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei UI, Microsoft YaHei, Arial, sans-serif; 
+  font-size: 16px; overflow-wrap: break-word !important;
+}
+
+.zhengWen_ZuoKongEr_p{
+  line-height: 2em; margin-left: 2em; margin-bottom: 0px; padding: 0px; outline: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(100, 65, 37); font-family: system-ui, -apple-system, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei UI, Microsoft YaHei, Arial, sans-serif; 
   font-size: 16px; overflow-wrap: break-word !important;
 }
 
